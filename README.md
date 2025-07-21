@@ -9,4 +9,4 @@ My current expertise lies in dealing with complex statistical datasets. In addit
 For deployment, I currently use a combination of streamlit, Docker and AWS.
 
 
-Feel free to Contact me at: gargajeesh@gmail.com
+I am always open to new oppurtunities, Feel free to reach out at: gargajeesh@gmail.com
