@@ -1,4 +1,4 @@
-Hi there, I’m Ajeesh
+## Hi there, I’m Ajeesh
 
 My journey in ML began began during my Erasmus Mundus Masters program. This was the place where I got the opputunity to apply various ML algorithms and perform data analysis on massive CERN datasets.
 
