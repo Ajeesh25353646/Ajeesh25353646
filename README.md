@@ -1,13 +1,13 @@
 # Hi there, I'm Ajeesh 👋
 
-I build production-grade AI applications — RAG pipelines, multi-agent systems, and LLM guardrails — with LangChain, LangGraph, and Streamlit. I've worked with datasets ranging from 8.5M+ CERN collision events to 1.1M+ crime records, and deployed systems being tested by real users.
+I build production-grade AI applications including RAG pipelines, multi-agent systems, and LLM guardrails using LangChain, LangGraph, and Streamlit. I have worked with datasets from 8.5M+ CERN collision events to 1.1M+ crime records and deployed systems tested by real users.
 
 **🔥 Currently working on:**
-- [langchain-langraph-apps](https://github.com/Ajeesh25353646/langchain-langraph-apps) — 9 AI agent apps (multi-agent orchestration, multimodal RAG, YouTube Q/A, finance analyst)
-- 15 interactive ML visualizations — [Live: Linear Regression](https://linear--regression.streamlit.app/)
+- [langchain-langraph-apps](https://github.com/Ajeesh25353646/langchain-langraph-apps) | 9 AI agent apps (multi-agent orchestration, multimodal RAG, YouTube Q/A, finance analyst)
+- 15 interactive ML visualizations | [Live: Linear Regression](https://linear--regression.streamlit.app/)
 
 **🔬 Background:**
-Joint Masters (France 🇫🇷 → Germany 🇩🇪 → Italy 🇮🇹) in Applied Physics, Statistics & ML | FGU/DFH Scholarship recipient
+Joint Masters (France 🇫🇷 → Germany 🇩🇪 → Italy 🇮🇹) in Applied Physics, Statistics & ML | FGU/DFH Scholarship recipient.
 
 **📫 Reach me:**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ajeesh-garg-22a435217) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@gargajeesh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gargajeesh@gmail.com)
